@@ -1,0 +1,5 @@
+cd [File/Directory name] : Go to that directory
+cd ..                    : Go up a folder
+cd ~                     : Go to base directory
+git clone [Clone link]   : Clones the files from the repository
+git add -A               : Adds everything from the folder
