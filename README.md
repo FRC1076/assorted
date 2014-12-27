@@ -7,12 +7,12 @@
 
 ## command line stuff
 1. git pull
-..* This will RETREIVE files from the online repository
+⋅⋅* This will RETREIVE files from the online repository
 2. git add -A
-..* Tells git to add everything you changed to repository
+⋅⋅* Tells git to add everything you changed to repository
 3. git commit 
-..* Message so people know what you did
+⋅⋅* Message so people know what you did
 4. git push
-..* This command is what acctually transfers the files to the repository
+⋅⋅* This command is what acctually transfers the files to the repository
 
 ## eclipse git resources
